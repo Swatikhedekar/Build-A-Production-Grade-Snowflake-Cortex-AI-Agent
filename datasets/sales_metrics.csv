@@ -1,0 +1,11 @@
+DEAL_ID,CUSTOMER_NAME,DEAL_VALUE,CLOSE_DATE,SALES_STAGE,WIN_STATUS,SALES_REP,PRODUCT_LINE
+DEAL001,TechCorp Inc,75000,2024-02-15,Closed,true,Sarah Johnson,Enterprise Suite
+DEAL002,SmallBiz Solutions,25000,2024-02-01,Lost,false,Mike Chen,Basic Package
+DEAL003,SecureBank Ltd,150000,2024-01-30,Closed,true,Rachel Torres,Premium Security
+DEAL004,GrowthStart Up,100000,2024-02-10,Pending,false,Sarah Johnson,Enterprise Suite
+DEAL005,DataDriven Co,85000,2024-02-05,Closed,true,James Wilson,Analytics Pro
+DEAL006,HealthTech Solutions,120000,2024-02-20,Pending,false,Rachel Torres,Premium Security
+DEAL007,LegalEase Corp,95000,2024-01-25,Closed,true,Mike Chen,Enterprise Suite
+DEAL008,GlobalTrade Inc,45000,2024-02-08,Closed,true,James Wilson,Basic Package
+DEAL009,FastTrack Ltd,180000,2024-02-12,Closed,true,Sarah Johnson,Premium Security
+DEAL010,UpgradeNow Corp,65000,2024-02-18,Pending,false,Rachel Torres,Analytics Pro
