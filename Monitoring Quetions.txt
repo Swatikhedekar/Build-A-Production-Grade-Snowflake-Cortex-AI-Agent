@@ -1,0 +1,8 @@
+1.What is our win rate by product line?
+2.What concerns did tech corp raise?
+3.Which deals should we focus on next quarter and why?
+4.What was the sentiment in our lost deals?
+5.Give me a quick summary of our pipeline
+6. Will we close the Growth start up deal?
+7.What's our average deal size?
+8.What do customers say about our onboarding process?
