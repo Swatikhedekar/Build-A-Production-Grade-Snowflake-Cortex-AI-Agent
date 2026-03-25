@@ -1,8 +1,5 @@
 # 🚀 Build-A-Production-Grade-Snowflake-Cortex-AI-Agent
 ## 📌 Project Overview
-This project delivers an end-to-end AI-driven Sales Intelligence Platform built on Snowflake Cortex, enabling organizations to derive actionable insights from sales data using natural language queries, semantic modeling, and intelligent agents.
-
-It combines data engineering, semantic modeling, search, and AI orchestration to support real-time decision-making, forecasting, and business analytics.
 Designed and implemented a production-grade AI agent using Snowflake Cortex to support sales teams with intelligent insights, real-time analytics, and automated decision support. Built an end-to-end data pipeline integrating CRM, deal, product, and sales performance data into Snowflake, enabling natural language querying, predictive forecasting, deal risk analysis, and sales recommendations. Delivered secure, scalable architecture with role-based access, optimized queries, and interactive dashboards to improve sales productivity, forecasting accuracy, and revenue growth.
 
 ## 🏗️ Architecture Layers
@@ -92,5 +89,6 @@ Load datasets into Snowflake:
 - Advanced ML models for predictive analytics
 - Real-time streaming pipelines
 - Voice-enabled AI assistant
+- Integrate Power BI on top of Snowflake
 
   # Thank you!
