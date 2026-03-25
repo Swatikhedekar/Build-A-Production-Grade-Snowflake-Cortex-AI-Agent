@@ -56,28 +56,41 @@ Designed and implemented a production-grade AI agent using Snowflake Cortex to s
 5. Executive reporting
 
 ## ⚙️ Setup & Usage
-1. Data Ingestion
+### 1. Data Ingestion
 Load datasets into Snowflake:
 - Sales data
 - Product data
 - Customer data
 - Deal pipeline data
-- Load sales, product, deal, and customer data into Snowflake
-
-- Configure Cortex AI models and semantic layer
-
-- Deploy SQL + Python pipelines
-
-- Build dashboards and AI chat interface
+### 2. Semantic Layer Setup
+- Create semantic views mapping business terms
+- Define dimensions, measures, and synonyms
+### 3. Cortex AI Configuration
+- Enable and configure Snowflake Cortex models
+- Define agent orchestration instructions
+### 4. Pipeline Deployment
+- Build ETL pipelines using: Python & SQL
+### 5. Application Layer
+- Develop:
+  - AI chat interface
+  - Dashboards for KPIs
 
 ## 📈 Business Impact
-
 - Improved sales forecasting accuracy
-
 - Faster decision-making
-
 - Increased conversion rate
-
 - Reduced manual reporting effort
+
+## 🔐 Security & Governance
+- Role-Based Access Control (RBAC)
+- Data-level security in Snowflake
+- Monitoring Cortex agent behavior
+- Query auditing and performance tracking
+
+## 🚀 Future Enhancements
+- Integration with CRM systems (Salesforce, HubSpot)
+- Advanced ML models for predictive analytics
+- Real-time streaming pipelines
+- Voice-enabled AI assistant
 
   # Thank you!
